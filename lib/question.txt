@@ -1,0 +1,9 @@
+Hi,
+As. you have applied for our Flutter Developer post.We will give you a small task to perform. If you are able to complete it, we will shortlist you for the HR round. You have 2 days to complete the task. We are interviewing multiple candidates, the sooner you send, the faster we can make a decision in hiring.
+
+Task Definition
+1. Integrate and display google maps.
+2. User will be able to select the current location and destination on the map.
+3. Calculate the distance between the current user location and destination.
+4. Display the calculated distance on another screen.
+Once completed, send the GitHub repository link to contact@dzentra.com
