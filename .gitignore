@@ -46,4 +46,4 @@ app.*.map.json
 /android/app/release
 
 #release-apk
-!build\app\outputs\flutter-apk\app-release.apk
+!/build/app/outputs/flutter-apk/app-release.apk
